@@ -1,8 +1,9 @@
 {
-   "files":{
-      "index.js":"8D8F9F4EF41A7751B6015A275F445A915AC4FA0F20CCA408E5FF33DED1244F9D"
-   },
-   "defs":{
-      "S_ABNORMALITY_BEGIN":2
-   }
+	"files": {
+		"index.js": "9b17498bff002215d84b92d7ba9564b68b52675d6ed03ce1c5e61b87e1c62ee0",
+		"module.json": "56a1c67ae21ebcd50b9021031f68f7b94cf72018d9f114e99fb3c26eed882192"
+	},
+	"defs": {
+		"S_ABNORMALITY_BEGIN": 3
+	}
 }
