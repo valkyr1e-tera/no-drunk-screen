@@ -2,7 +2,7 @@
 	"disableAutoUpdate": false,
 	"name": "no-drunk-screen",
 	"author": "valkyr1e",
-	"description": "removes several screen effects",
+	"description": "Removes several screen effects",
 	"version": "1.0",
 	"servers": ["https://raw.githubusercontent.com/valkyr1e-tera/no-drunk-screen/master/"]
 }
